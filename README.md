@@ -8,7 +8,7 @@ BeFree bloque tes applications et sites distrayants pendant tes sessions de trav
 
 | Plateforme | Fichier |
 |---|---|
-| Windows | `.zip` (dossier portable, aucune installation) |
+| Windows | `BeFreeSetup.exe` (installeur, sans droits administrateur) |
 
 → [Voir toutes les Releases](https://github.com/gohansenseiyt-ux/BeFree-app/releases/latest)
 
@@ -27,9 +27,8 @@ BeFree bloque tes applications et sites distrayants pendant tes sessions de trav
 
 ## 🚀 Installation
 
-1. Va sur la page [Releases](https://github.com/gohansenseiyt-ux/BeFree-app/releases/latest) et télécharge `BeFree.zip`.
-2. Extrait le dossier `BeFree` où tu veux.
-3. Lance `BeFree.exe` **depuis l'intérieur du dossier extrait** (il a besoin des fichiers du sous-dossier `_internal` à côté de lui).
+1. Va sur la page [Releases](https://github.com/gohansenseiyt-ux/BeFree-app/releases/latest) et télécharge `BeFreeSetup.exe`.
+2. Lance-le et suis l'assistant (Suivant → Suivant → Installer). Aucun droit administrateur requis, installation dans ton profil utilisateur.
 
 L'exécutable n'étant pas encore signé, Windows peut afficher un avertissement "Éditeur inconnu" au premier lancement — clique sur **Plus d'infos** puis **Exécuter quand même**.
 
