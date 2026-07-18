@@ -22,8 +22,8 @@ BeFree bloque tes applications et sites distrayants pendant tes sessions de trav
 - **Physical Lock** — seule une clé USB physique peut ouvrir les réglages / autoriser un abandon.
 - **Persistance de session** — la session se réactive après un redémarrage.
 - **Français / English** — choix de langue au premier lancement.
-- **Compte Fondateur** (optionnel) — les 500 premiers inscrits débloquent un code Fondateur unique.
-- **Local par défaut** — sessions, statistiques et blocages ne quittent jamais ton PC. Seul le compte Fondateur (optionnel) envoie ton email à un service distant pour gérer les 500 places.
+- **Compte Premium** (optionnel) — les 500 premiers inscrits débloquent un code Premium unique.
+- **Local par défaut** — sessions, statistiques et blocages ne quittent jamais ton PC. Seul le compte Premium (optionnel) envoie ton email à un service distant pour gérer les 500 places.
 
 ## 🚀 Installation
 
